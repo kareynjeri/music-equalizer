@@ -6,6 +6,7 @@
 
 ## Future progress
 
+## Future technologies
 
 ### Screenshot
 
@@ -24,7 +25,9 @@ Mobile Preview\
 
 - i intend to continue building these project till it is fully functional , i first build the design layout with html ,css  to have an idea of how it would look it .
 
+## Future Technologies 
 
+- Flutter
 
 ##Author
 - Github [karey njeri] - https://github.com/kareynjeri
